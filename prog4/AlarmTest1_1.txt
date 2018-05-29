@@ -1,0 +1,11 @@
+cat
+Turtle
+Jigsaw
+Rain
+Umbrella
+Phone
+Controller
+Stapler
+Apple
+Zebra
+marker
